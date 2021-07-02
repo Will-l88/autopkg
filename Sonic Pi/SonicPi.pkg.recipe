@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads latest SonicPi zip and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.pkg.sonicpi</string>
+    <string>com.github.autopkg.Will-L88.pkg.sonicpi</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>SonicPi</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.download.sonicpi</string>
+    <string>com.github.autopkg.Will-L88.download.sonicpi</string>
     <key>Process</key>
     <array>
          <dict>
